@@ -9,8 +9,11 @@
 
 ## 必要な環境の導入
 - Julius ROS
+
 `$ sudo apt install ros-melodic-julius-ros`
+
 - ros speech recognition
+
 `$ sudo apt install ros-melodic-ros-speech-recognition`
 
 ## 起動方法
