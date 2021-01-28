@@ -1,5 +1,5 @@
 # 自主プロ JisaQoobo
-![IMG_0608](https://user-images.githubusercontent.com/67531577/106209150-dd2dee00-6207-11eb-8466-f9a885bbe399.JPG)
+<img src="https://user-images.githubusercontent.com/67531577/106209150-dd2dee00-6207-11eb-8466-f9a885bbe399.JPG" width=50%>
 ## 使用環境
 - Ubuntu 18.04
 - Python 2.7
