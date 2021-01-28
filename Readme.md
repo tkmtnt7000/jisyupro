@@ -1,4 +1,5 @@
 # 自主プロ JisaQoobo
+![IMG_0608](https://user-images.githubusercontent.com/67531577/106209150-dd2dee00-6207-11eb-8466-f9a885bbe399.JPG)
 ## 使用環境
 - Ubuntu 18.04
 - Python 2.7
@@ -23,3 +24,7 @@ or
 4. 必要に応じて音声認識操作プログラムを起動する
 
 `$ python speech_listener.py`
+
+## 動作結果
+以下のプレイリストにまとめてある
+[https://youtube.com/playlist?list=PLnE36RnaDnLsUefg1Ihpq5fz-qoc_AKe0](https://youtube.com/playlist?list=PLnE36RnaDnLsUefg1Ihpq5fz-qoc_AKe0)
