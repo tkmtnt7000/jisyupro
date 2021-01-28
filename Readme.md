@@ -1,4 +1,4 @@
-# 自主プロ
+# 自主プロ JisaQoobo
 ## 使用環境
 - Ubuntu 18.04
 - Python 2.7
