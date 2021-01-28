@@ -32,7 +32,8 @@ or
 
 `$ roslaunch mechatrobot mechatrobot_driver.launch`
 
-[jsk-enshu/robot-programming](https://github.com/jsk-enshu/robot-programming.git)を利用
+[jsk-enshu/robot-programming](https://github.com/jsk-enshu/robot-programming.git)内のmechatrobotパッケージを利用
+
 
 4. 必要に応じて音声認識操作プログラムを起動する
 
