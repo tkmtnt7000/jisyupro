@@ -7,6 +7,12 @@
 - Arduino IDE 1.8.13
 - ROS Melodic
 
+## 必要な環境の導入
+- Julius ROS
+`$ sudo apt install ros-melodic-julius-ros`
+- ros speech recognition
+`$ sudo apt install ros-melodic-ros-speech-recognition`
+
 ## 起動方法
 1. move_tail.inoをArduinoに書き込む
 
@@ -20,6 +26,7 @@ or
 
 3. Rosserialを介した通信を開始する
 
+
 `$ roslaunch mechatrobot mechatrobot_driver.launch`
 
 4. 必要に応じて音声認識操作プログラムを起動する
@@ -28,4 +35,5 @@ or
 
 ## 動作結果
 以下のプレイリストにまとめてある
+
 [https://youtube.com/playlist?list=PLnE36RnaDnLsUefg1Ihpq5fz-qoc_AKe0](https://youtube.com/playlist?list=PLnE36RnaDnLsUefg1Ihpq5fz-qoc_AKe0)
