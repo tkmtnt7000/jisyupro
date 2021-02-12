@@ -5,6 +5,7 @@
 - Ubuntu 18.04
 - Python 2.7
 - Arduino IDE 1.8.13
+- Arduino UNO
 - ROS Melodic
 
 ## 必要な環境の導入
